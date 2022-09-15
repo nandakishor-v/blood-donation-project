@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/layout/activity_login.xml" value="0.11231884057971014" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/drawable/buttons_background.xml" value="0.1" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.215" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/drawable/ic_password.xml" value="0.215" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/drawable/mail.xml" value="0.1" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/drawable/number.xml" value="0.1" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/layout/activity_donor_registration.xml" value="0.2" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/layout/activity_login.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/layout/activity_recipient_registration.xml" value="0.2078125" />
+        <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/layout/activity_select_registration.xml" value="0.264" />
         <entry key="..\:/Users/nanda/AndroidStudioProjects/BloodDonation/app/src/main/res/layout/splash_screen_activity.xml" value="0.264" />
       </map>
     </option>

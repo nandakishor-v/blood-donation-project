@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Blood Donation</string>
+    <string-array name="bloodgroups">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>0+</item>
+        <item>0-</item>
+    </string-array>
 </resources>
