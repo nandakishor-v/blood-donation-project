@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="210dp"
+    android:orientation="vertical"
+    android:paddingTop="5dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:background="@drawable/hdr_bk">
+<de.hdodenhof.circleimageview.CircleImageView
+    android:layout_width="95dp"
+    android:layout_height="95dp"
+    android:id="@+id/nav_pfp"
+    android:layout_marginTop="20dp"
+    android:src="@drawable/ic_phn"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nav_unm"
+        android:text="Full Name"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nav_ueml"
+        android:text="E-mail"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nav_ubgp"
+        android:text="BloodGp"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nav_utyp"
+        android:text="Type"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"/>
+
+</LinearLayout>

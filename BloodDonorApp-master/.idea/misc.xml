@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/App/BloodDonor/app/src/main/res/drawable/but_back.xml" value="0.2265" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/drawable/hdr_bk.xml" value="0.2265" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/drawable/ic_eml.xml" value="0.2265" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/drawable/ic_per.xml" value="0.2265" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/drawable/ic_phn.xml" value="0.2265" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/drawable/nav_slctr.xml" value="0.2265" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/drawable/nav_vw_itm_slctd.xml" value="0.2265" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_catslctdact.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_contact.xml" value="0.24010416666666667" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_donor.xml" value="0.176" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_main.xml" value="0.24354657687991021" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_recpa.xml" value="0.22418478260869565" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_select.xml" value="0.22418478260869565" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_share.xml" value="0.25052083333333336" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/activity_splashscreen.xml" value="0.136" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/header.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/layout/user_displayed_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/BloodDonor/app/src/main/res/menu/main_menu.xml" value="0.20854700854700856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
